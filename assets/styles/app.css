@@ -1,3 +1,11 @@
-body {
-    background-color: skyblue;
+@charset "UTF-8";
+/*Style général*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+h1 {
+  color: blue;
+}/*# sourceMappingURL=app.css.map */
